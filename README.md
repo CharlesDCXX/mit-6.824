@@ -14,7 +14,7 @@ A mdbook version of mit 6.824 of [Hong Hui Xiao/肖宏辉](https://github.com/hu
 克隆：
 
 ```
-git clone https://github.com/night-cruise/mit-6.824.git
+git clone https://github.com/CharlesDCXX/mit-6.824.git
 ```
 
 切换目录：
